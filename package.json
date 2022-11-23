@@ -1,0 +1,25 @@
+{
+  "name": "phisher",
+  "version": "1.0.0",
+  "description": "NodeJS Phishing Tester",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n0ct3ri4/node-phisher.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n0ct3ri4/node-phisher/issues"
+  },
+  "homepage": "https://github.com/n0ct3ri4/node-phisher#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemailer": "^6.8.0",
+    "prompt": "^1.3.0"
+  }
+}
