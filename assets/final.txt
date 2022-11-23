@@ -1,0 +1,7 @@
+# Résultat de l'expérience.
+
+### Vous avez participé à une expérience de sécurité menée par votre équipe informatique.
+
+{LINK} d'entre vous ont cliqué sur un lien potentiellement dangereux.
+
+{MACRO} d'entre vous ont activé des macros potentiellement dangereuses.
